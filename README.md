@@ -1,16 +1,18 @@
-## Hi there 👋
+Olá, eu sou o Cauã Henrique 👋  
 
-<!--
-**CauaHt/CauaHt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor **Back-End** com foco em arquitetura de sistemas, APIs e modelagem de banco de dados.  
 
-Here are some ideas to get you started:
+Tenho experiência na construção de aplicações robustas, integrações entre serviços e desenvolvimento de soluções escaláveis e performáticas.  
+Também possuo experiência em **desenvolvimento web**, atuando na criação de interfaces e integração entre front-end e back-end.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabalho com boas práticas de código, versionamento com Git e organização de projetos voltados para eficiência e manutenção a longo prazo.  
+
+🚀 Sempre buscando evoluir como engenheiro de software.
+
+---
+
+### 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,nodejs,postgres,mysql,git,github&perline=10" />
+</p>
